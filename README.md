@@ -40,7 +40,7 @@ and how best to present each type of offer.
 ├── data
 │	├── df_main.csv-------------------# Result  
 │	├── portfolio.json----------------# Users (17000 users x 5 fields)
-│   ├── profile.json------------------# Offers sent during 30-day period 
+│	├── profile.json------------------# Offers sent during 30-day period 
 │	└── transcript.json---------------# Event log (306648 events x 4 fields)
 └── README.MD-------------------------# README FILE FOR PROJECT
 
