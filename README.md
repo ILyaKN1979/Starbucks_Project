@@ -39,8 +39,8 @@ and how best to present each type of offer.
 ├── report-Starbucks project.pdf--------------# Report
 ├── data
 │	├── df_main.csv----------------# Result |D 
-│	├── portfolio.json-------------# Rewards program users (17000 users x 5 fields)
-│   ├── profile.json---------------# Offers sent during 30-day test period (10 offers x 6 fields)
+│	├── portfolio.json-------------# Users (17000 users x 5 fields)
+│   ├── profile.json---------------# Offers sent during 30-day test period 
 │	└── transcript.json------------# Event log (306648 events x 4 fields)
 │
 └── README.MD-------------------------------# README FILE FOR PROJECT
