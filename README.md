@@ -4,7 +4,13 @@
 
 ## Project Introduction
 
-This is the super capstone project from Udacity!
+The Starbucks Capstone Challenge is an integral component of the Udacity Data Scientists Nanodegree Program. 
+This project encompasses several essential elements, including:
+
+1) Establish an ETL pipeline.
+2) Analyze and transform the original data.
+3) Conduct exploration analysis and visualization.
+4) Develop a data model capable of predicting whether the customer will accept the offer or not.
 
 Dataset overview
 * The program used to create the data simulates how people make purchasing decisions and how those decisions
@@ -30,12 +36,22 @@ and how best to present each type of offer.
 <pre>
 .
 ├── Starbucks_Capstone_notebook.ipynb---------# MAIN FILE 
+├── report-Starbucks project.pdf--------------# Report
 ├── data
-│   ├── portfolio.json-------------# Rewards program users (17000 users x 5 fields)
+│	├── df_main.csv----------------# Result |D 
+│	├── portfolio.json-------------# Rewards program users (17000 users x 5 fields)
 │   ├── profile.json---------------# Offers sent during 30-day test period (10 offers x 6 fields)
 │	└── transcript.json------------# Event log (306648 events x 4 fields)
+│
 └── README.MD-------------------------------# README FILE FOR PROJECT
 
 </pre>
 <a id="sw_lib"></a>
+
+## Libraries
+
+pandas, numpy, math, json, matplotlib, seaborn, sklearn
+
+## Medium Blog Post
+I wrote report-Starbucks project.pdf instead of the blog; I hope it works! 
 
