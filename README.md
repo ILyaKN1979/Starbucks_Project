@@ -52,5 +52,12 @@ and how best to present each type of offer.
 pandas, numpy, math, json, matplotlib, seaborn, sklearn
 
 ## Medium Blog Post
-I wrote report-Starbucks project.pdf instead of the blog; I hope it works! 
+I wrote report-Starbucks project.pdf instead of the blog; I hope it works!
+
+## Licensing, Authors, Acknowledgements
+
+Must give credit to Udacity and Starbucks for providing data.  
+You can find the Licensing for the data and other descriptive information at Udacity.
+Otherwise, feel free to use the code here as you would like! 
+ 
 
